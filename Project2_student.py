@@ -1,4 +1,4 @@
-#Firstly we want to add student and teacher detailts
+
 print("...............Welcome to SUBATASH software.............")
 print("\n\n")
 print("...............Who are you?...................")
